@@ -28,4 +28,11 @@ Stage 2-Planning the program
 
 -Added a function to display available equipment
 
--
+-Add an extension that shows what equipment has been borrowed 
+
+# Borrowing equipment
+-Added a function to borrow equipment
+-Asked student to enter their names
+-Checked if equipment was available
+-Reduce quantity of borrowing
+-Added borrowed equipment to the loans list
